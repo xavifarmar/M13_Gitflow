@@ -1,0 +1,1 @@
+Esto es una simulación de commo se veria el giflow de una empresa grande
